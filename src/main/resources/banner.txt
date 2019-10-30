@@ -7,4 +7,3 @@
                                               | |
                                               |_|
 :: Built with Spring Boot :: ${spring-boot.version}
-:: JFALL EDITION 2019 ::
